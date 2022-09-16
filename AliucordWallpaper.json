@@ -1,8 +1,8 @@
 {
-  "name": "Choose Your Wallpaper",
+  "name": "Joro's Theme",
   "author": "Joro",
   "version": "0.1a",
-  "background_url": "",
-  "font": "",
+  "background_url": "https://github.com/Joro1144/Joro-s-Alui-Theme/raw/main/AMOLED-Tanjiro.png",
+  "font": "https://github.com/Joro1144/Joro-s-Alui-Theme/raw/main/Small-Memory.ttf",
   "background_transparency": 0
  }
